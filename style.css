@@ -1,0 +1,212 @@
+*,
+html {
+  padding: 0;
+  margin: 0;
+}
+
+.pertama {
+  background-color: wheat;
+  
+}
+
+.container {
+  background-color: wheat;
+  width: 100%;
+  
+}
+
+.ul-navbar {
+  background-color: #333;
+  
+  padding: 15px;
+  display: flex;
+  justify-content: right;
+  text-align: center;
+}
+
+.home-navbar {
+  color: white;
+  text-decoration: none;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.li-navbar {
+  list-style: none;
+  font-size: 20px;
+  color: white;
+  padding: 15px;
+}
+
+.li-navbar:hover {
+  background-color: grey;
+  transition: 0.3s ease-in-out;
+  transition-delay: 0.3s;
+  border-radius: 8px;
+}
+
+.a-content {
+  padding: 80px;
+  
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.img-content {
+  border-radius: 80px;
+  width: 300px;
+  height: 300px;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.ul-bunuh {
+  background-color: #333;
+  width: 100%;
+  
+  font-family: "Times New Roman", Times, serif;
+  padding-top: 30px;
+}
+
+.h1-bunuh {
+  color: white;
+  font-size: 32px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.div-tentang {
+  background-color: white;
+}
+
+.a-tentang {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 80px;
+}
+
+.img-dua {
+  max-width: 400px;
+  min-height: 400px;
+  padding-left: 1px;
+  border-radius: 75px;
+}
+
+.h1-tentang {
+  font-size: 20px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.p-tentang {
+  margin-block-start: 1em;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+
+.b-rokok {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 25px;
+}
+
+.b-tentang {
+  display: flex;
+  justify-content: left;
+  text-align: center;
+}
+
+.ul-contact {
+  background-color: #333;
+}
+
+.h1-contact {
+  color: white;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.b-contact {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 20px;
+}
+
+.input {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+}
+
+form {
+  width: 90%;
+  max-width: 600px;
+  margin-bottom: 60px;
+}
+
+.input-grup {
+  margin-bottom: 30px;
+  position: relative;
+  color: black;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 10px;
+  outline: 0;
+  border: 1px solid black;
+  color: black;
+  font-size: 15px;
+}
+
+label {
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding: 10px;
+  color: black;
+  cursor: text;
+}
+
+button {
+  padding: 10px 0;
+  color: black;
+  outline: none;
+  border: 1px solid black;
+  width: 100%;
+  cursor: pointer;
+}
+
+footer {
+  background-color: #111;
+}
+
+.last-container {
+  width: 100%;
+  padding: 10px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.div-penutup {
+  display: flex;
+  justify-content: center;
+ 
+}
+
